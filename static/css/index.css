@@ -1,3 +1,9 @@
+@media screen and (max-width: 768px) {
+  .hero,
+  .section {
+    background: var(--background-secondary) !important;
+  }
+}
 /* Modern CSS Variables for consistent theming */
 :root {
   --primary-color: #f943a1;
